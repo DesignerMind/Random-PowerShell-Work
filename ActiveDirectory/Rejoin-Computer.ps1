@@ -1,4 +1,5 @@
-<#
+<# ORINGINAL FILE FOR EDITING & REVIEW
+
 .SYNOPSIS
 	This script disjoins a computer from an Active Directory domain, performs a reboot and upon coming back up
 	joins it to the domain again and performs another reboot.
